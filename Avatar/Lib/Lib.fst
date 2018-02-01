@@ -1,7 +1,7 @@
 name = Lib
 type = body+head
 scale = 1
-filename = Lib/Lib.fbx
+filename = Lib/Lib2.fbx
 texdir = Lib/textures
 joint = jointLean = Spine
 joint = jointLeftHand = LeftHand
