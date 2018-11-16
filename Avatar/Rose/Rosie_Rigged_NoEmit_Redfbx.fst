@@ -1,0 +1,104 @@
+name = Rosie_Rigged_NoEmit_Redfbx
+type = body+head
+scale = 1
+filename = Rosie_Rigged_NoEmit_Redfbx/Rosie_Rigged_NoEmit_Redfbx.fbx
+texdir = Rosie_Rigged_NoEmit_Redfbx/textures
+joint = jointRightHand = RightHand
+joint = jointHead = Head
+joint = jointLean = Spine
+joint = jointLeftHand = LeftHand
+joint = jointRoot = Hips
+joint = jointNeck = Neck
+freeJoint = LeftArm
+freeJoint = LeftForeArm
+freeJoint = RightArm
+freeJoint = RightForeArm
+jointIndex = RightFoot = 14
+jointIndex = RightHandPinky1 = 31
+jointIndex = LeftHandMiddle3 = 72
+jointIndex = RightHandIndex3 = 48
+jointIndex = RightHandPinky4 = 34
+jointIndex = LeftHandIndex3 = 77
+jointIndex = LeftToe_End = 22
+jointIndex = Lamp.001 = 3
+jointIndex = RightHandMiddle4_end = 45
+jointIndex = RightForeArm = 29
+jointIndex = Neck = 85
+jointIndex = LeftHandMiddle2 = 71
+jointIndex = LeftForeArm = 58
+jointIndex = RightHandThumb1 = 51
+jointIndex = LeftHandPinky4 = 63
+jointIndex = LeftArm = 57
+jointIndex = Body__m_Body = 6
+jointIndex = LeftHandIndex4 = 78
+jointIndex = Spine = 24
+jointIndex = RightHandRing3 = 38
+jointIndex = HeadTop_End_end = 88
+jointIndex = RightHandIndex2 = 47
+jointIndex = Pupil__m_PupilR = 8
+jointIndex = RightHandIndex4 = 49
+jointIndex = Head = 86
+jointIndex = RightHandRing1 = 36
+jointIndex = RightShoulder = 27
+jointIndex = RightToe_End = 16
+jointIndex = RightToeBase = 15
+jointIndex = LeftHandMiddle4_end = 74
+jointIndex = RightToe_End_end = 17
+jointIndex = LeftHandRing1 = 65
+jointIndex = RightHandThumb3 = 53
+jointIndex = LeftToe_End_end = 23
+jointIndex = RightHandMiddle3 = 43
+jointIndex = RightHandRing4_end = 40
+jointIndex = LeftFoot = 20
+jointIndex = RightHandMiddle2 = 42
+jointIndex = LeftHandMiddle4 = 73
+jointIndex = RightHandThumb4_end = 55
+jointIndex = Camera.002 = 5
+jointIndex = Camera = 0
+jointIndex = LeftHandPinky3 = 62
+jointIndex = LeftHandThumb4 = 83
+jointIndex = LeftHandRing4 = 68
+jointIndex = RightHandMiddle4 = 44
+jointIndex = LeftHandRing3 = 67
+jointIndex = LeftHandThumb1 = 80
+jointIndex = LeftHandMiddle1 = 70
+jointIndex = LeftShoulder = 56
+jointIndex = RightLeg = 13
+jointIndex = RightHandRing4 = 39
+jointIndex = RightHandPinky2 = 32
+jointIndex = RightHandIndex1 = 46
+jointIndex = LeftToeBase = 21
+jointIndex = LeftHandIndex1 = 75
+jointIndex = LeftUpLeg = 18
+jointIndex = RightHandPinky4_end = 35
+jointIndex = LeftHand = 59
+jointIndex = LeftLeg = 19
+jointIndex = RightHandIndex4_end = 50
+jointIndex = RightHandMiddle1 = 41
+jointIndex = Lamp = 1
+jointIndex = RightHandRing2 = 37
+jointIndex = RightHandPinky3 = 33
+jointIndex = LeftHandRing4_end = 69
+jointIndex = Lamp.002 = 4
+jointIndex = HeadTop_End = 87
+jointIndex = LeftHandPinky1 = 60
+jointIndex = RightArm = 28
+jointIndex = LeftHandIndex4_end = 79
+jointIndex = LeftHandPinky2 = 61
+jointIndex = LeftHandRing2 = 66
+jointIndex = RightHandThumb4 = 54
+jointIndex = Body__m_Eye = 9
+jointIndex = LeftHandPinky4_end = 64
+jointIndex = Camera.001 = 2
+jointIndex = LeftHandThumb4_end = 84
+jointIndex = Armature = 10
+jointIndex = Spine1 = 25
+jointIndex = Pupil__m_PupilL = 7
+jointIndex = RightHandThumb2 = 52
+jointIndex = Spine2 = 26
+jointIndex = RightHand = 30
+jointIndex = LeftHandThumb3 = 82
+jointIndex = LeftHandIndex2 = 76
+jointIndex = RightUpLeg = 12
+jointIndex = Hips = 11
+jointIndex = LeftHandThumb2 = 81
